@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 A working example for combining react components inside angular.
 install required packages with "npm install"
+based on: https://stackoverflow.com/questions/54408694/connect-angular-application-with-reactjs-app
 
 ## Development server
 
